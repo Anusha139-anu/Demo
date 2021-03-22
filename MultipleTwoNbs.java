@@ -1,4 +1,4 @@
-public class MultipleTwoNumbers {
+public class MultipleTwoNbs {
 
    public static void main(String[] args) {
         
